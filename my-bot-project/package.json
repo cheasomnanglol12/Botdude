@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot",
+  "name": "Hamkeygen kalip bot",
   "version": "1.0.0",
   "main": "api/bot.js",
   "scripts": {
